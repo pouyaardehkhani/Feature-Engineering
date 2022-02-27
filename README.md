@@ -1,4 +1,4 @@
-# Feature-Engineering
+# Feature-Engineering ![license](https://img.shields.io/github/license/pouyaardehkhani/Feature-Engineering.svg) ![releases](https://img.shields.io/github/release/pouyaardehkhani/Feature-Engineering.svg) <a href="https://colab.research.google.com/github/pouyaardehkhani/Feature-Engineering/blob/master/feature-engineering.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 This notebook provides some skills to perform Feature-Engineering on data.
 
 ## Skills that are covered in this notebook:
